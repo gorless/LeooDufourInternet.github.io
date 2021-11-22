@@ -1,0 +1,13 @@
+@import url(components/ui_2.css);
+@import url(components/ui_1.css);
+@import url(components/ui_7.css);
+@import url(components/ui_5.css);
+@import url(components/ui_footer.css);
+
+.salle_classe {
+  color: #F0F;
+}
+
+#color_text {
+  color: black;
+}

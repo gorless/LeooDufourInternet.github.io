@@ -1,0 +1,44 @@
+.ui_1_container {
+  overflow: hidden;
+  height: 120px;
+  background: white;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  margin:10px;
+  border-radius: 20px;
+}
+
+.ui_1_container img {
+  height: 100%;
+  width: 120px;
+  object-fit: cover;
+}
+
+.ui_1_container h2 {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+  font-size: 30px;
+}
+
+.ui_1_container p {
+  font-size: 12px;
+  line-height: 1.4;
+  opacity: .7;
+  margin-bottom: 0;
+  margin-top: 8px;
+  font-size: 20px;
+}
+
+.ui_1_container .ui_1_box {
+  padding: 16px;
+}
+a{
+  color: grey;
+ text-decoration:none; 
+}
+a:visited 
+{
+  color: grey;
+}
